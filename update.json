@@ -1,0 +1,9 @@
+{
+  "packageManager": "github",
+  "name": "jinqjs",
+  "repo": "fordth/jinqJs",
+  "files": {
+    "include": ["jinqjs.js", "jinqjs.min.js"],
+    "exclude": ["jinqjs-unstable.js"]
+  }
+}
